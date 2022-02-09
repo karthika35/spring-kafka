@@ -1,7 +1,7 @@
 
-Z
-java:S1858"="get" returns a string, there's no need to call "toString()".(¨ìªğ8Ùôç‚œ/
 •
 java:S1130%"sRemove the declaration of thrown exception 'org.springframework.beans.BeansException' which is a runtime exception.(ÇÓ›öûÿÿÿÿ8Ùôç‚œ/
+Z
+java:S1858"="get" returns a string, there's no need to call "toString()".(¨ìªğ8Ùôç‚œ/
 S
 java:S2696'"6Make the enclosing method "static" or remove this set.(°è”8Ùôç‚œ/
